@@ -1,11 +1,6 @@
-<div align="center">
+# Project 1: Build Your Personal Website with AI!
+In this project, you will leverage AI and your knowledge of HTML and CSS to build a simple, single-page personal website that will showcase your projects.
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+You will use AI to help you brainstorm design ideas, apply web development best practices, and troubleshoot issues, bringing your vision to life on screen! 
 
-  <h1>Built with AI Studio</h2>
-
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+Launch a Codespace to get started. **Remember to Commit and Push** your project changes to GitHub from Codespaces to prevent losing progress.
